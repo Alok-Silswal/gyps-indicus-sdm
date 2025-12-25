@@ -32,7 +32,8 @@ This repository contains an end-to-end **presence-only Species Distribution Mode
 
 ## Repository Structure
 
-``gyps-indicus-sdm/
+```
+gyps-indicus-sdm/
 │
 ├── README.md
 ├── sdm_kde_pipeline.ipynb
@@ -41,7 +42,9 @@ This repository contains an end-to-end **presence-only Species Distribution Mode
 └── assets/
     ├── gyps_indicus_data.csv
     ├── combined_with_final_suit.csv
-    └── 0022518-251009101135966.csv``
+    └── 0022518-251009101135966.csv
+
+```
 
 ## Tech Stack
 Python, Google Earth Engine, scikit-learn, Pandas, NumPy, Matplotlib
